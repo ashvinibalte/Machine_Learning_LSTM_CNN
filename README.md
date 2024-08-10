@@ -8,8 +8,7 @@ Welcome to the Machine Learning with LSTM and CNN repository! This project demon
   <li><b>Setup and Installation</b></li>
   <li><b>Notebook Overview</b></li>
   <li><b>Results and Evaluation</b></li>
-  <li><b>Contributing</b></li>
-  <li><b>License</b></li>
+
 </ul>
 <h1><b>Project Overview</b></h1>
 This project involves implementing and experimenting with LSTM and CNN models to solve machine learning tasks such as sequence prediction and image classification. The repository contains a Jupyter Notebook that walks through the process of building, training, and evaluating these models using Python and popular machine learning libraries.
